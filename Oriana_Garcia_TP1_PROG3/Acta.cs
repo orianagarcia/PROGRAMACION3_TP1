@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Oriana_Garcia_TP1_PROG3
 {
-    class Acta
+     class Acta
     {
-        private
+        private 
         int codigo_acta;
         int tomo;
         int folio;

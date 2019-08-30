@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace Oriana_Garcia_TP1_PROG3
 {
-    class Recuperatorio : Examen
+    class Nota
     {
-        private
-        int codigo_comision;
-        int codigo_docente;
-       
+        int nota;
+        int legajo_Alumno;
+        int codigo_examen;
     }
 }

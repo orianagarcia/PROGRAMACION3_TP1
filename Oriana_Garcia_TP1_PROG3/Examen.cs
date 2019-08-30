@@ -11,10 +11,7 @@ namespace Oriana_Garcia_TP1_PROG3
         private 
         int codigo_examen;
         DateTime fecha;
-        int hora_inicio;
-        string nota; //pongo string, porque deberia permitir poner ausentes
-        int codigo_materia;
-        int codigo_acta;
+        string nota; //pongo string, porque deberia permitir poner ausente;
 
     }
 }

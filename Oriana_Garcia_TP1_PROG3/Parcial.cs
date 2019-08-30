@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace Oriana_Garcia_TP1_PROG3
 {
-    class Parcial
+    class Parcial :Examen
     {
         private
         int codigo_comision;
-        int nota;
-        int legajo_alumno;
         int codigo_docente;
-        int codigo_parcial;
         DateTime fecha;
 
     }
